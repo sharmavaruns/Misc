@@ -6,7 +6,7 @@ TLDR: Check this code at your own risk ;).
 
 ## projects uploaded here:
 - coding_interview: Was a coding interview that I had for a Machine Learning internship position in the drug discovery space.
-- 'coding_interview_completed.ipynb' has my implementation and 'coding_interview_original.ipynb' has the original questions
+  - 'coding_interview_completed.ipynb' has my implementation and 'coding_interview_original.ipynb' has the original questions
   - Highlights include:
     - Problem 1: simple Palindrome algorithm question
     - Problem 2: parsing in files
